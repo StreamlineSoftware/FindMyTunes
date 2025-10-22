@@ -4,6 +4,8 @@
 It scans your MP3/FLAC library, helps you match online playlists from Spotify, Apple Music, or Tidal,  
 and exports clean `.m3u` files ready for your DJ software — automatically kept up to date.
 
+<img width="798" height="312" alt="Screenshot 2025-10-22 210529" src="https://github.com/user-attachments/assets/d42e2a47-273a-4bc7-a892-8ec6abc2b54f" />
+
 ---
 
 ## 📦 Download
