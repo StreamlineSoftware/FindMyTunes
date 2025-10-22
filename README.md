@@ -55,8 +55,8 @@ All rights reserved.
 
 ## 💬 Support
 
-- 🌐 Website: [https://findmytunes.app](https://findmytunes.com)  
-- 📧 Email: [support@findmytunes.app](support@streamline-soft.com)  
+- 🌐 Website: [https://findmytunes.com](https://findmytunes.com)  
+- 📧 Email: [support@streamline-soft.com](support@streamline-soft.com)  
 - 🐞 Issues: [Report a bug](https://github.com/StreamlineSoftware/FindMyTunes/issues)
 
 ---
